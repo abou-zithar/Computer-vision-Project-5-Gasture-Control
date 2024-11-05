@@ -28,7 +28,7 @@ This project is a **computer vision-based application** that implements **volume
     ```
 ## install required libraries (consider using a virtual environment)
 ```bash
-Copy code
+
 pip install -r requirements.txt
 ```
 ## Run the Application
