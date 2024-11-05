@@ -46,8 +46,7 @@ python main.py
 - `main.py`: Main script to run the finger counting and volume control application.
 - `HandTrackingmodule/`: Contains the `HandTracking` class to detect and track hand landmarks using Mediapipe.
 - `VolumeHandControl/`: Contains the `VolumeHandControl` class to adjust system volume using hand gestures.
-- `Finger_images/`: Stores images related to finger counting (if any).
-- `Finger counter output.mp4`: Sample output video of the project in action (if available).
+- `Gasture Control output.mp4`: Sample output video of the project in action (if available).
 -  `requirements.txt`: List of dependencies required for the project.
 
 ## Requirements
