@@ -1,6 +1,6 @@
-# 6 Finger Counter and Volume Hand Control - Computer Vision Project
+# Volume Hand Control - Computer Vision Project
 
-This project is a **computer vision-based application** that implements **finger counting** and **volume control using hand gestures**. The project uses **OpenCV**, **Mediapipe**, and **Python** to detect hand landmarks, enabling real-time interaction through hand gestures. It also includes modules for tracking hands, counting fingers, and adjusting system volume based on detected gestures.
+This project is a **computer vision-based application** that implements **volume control using hand gestures**. The project uses **OpenCV**, **Mediapipe**, and **Python** to detect hand landmarks, enabling real-time interaction through hand gestures. It also includes modules for tracking hands, counting fingers, and adjusting system volume based on detected gestures.
 
 ## Table of Contents
 - [Features](#features)
